@@ -36,10 +36,11 @@
  }
 
  .cv .cv__photo{
+   display: block;
+   margin: 0 auto;
    width: 240px;
    height: 240px;
    border-radius: 50%;
-   margin: 0 55px 0 55px;
  }
 
  .cv .cv__title {
