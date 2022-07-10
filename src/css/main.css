@@ -96,13 +96,13 @@
 
  .cv__skills-list {
    columns: 3;
-   padding-left: 40px;
+   padding-left: 20px;
    margin-bottom: 35px;
    list-style: none;
  }
 
  .cv__experience-list {
-   padding-left: 55px;
+   padding-left: 20px;
    margin-bottom: 33px;
    list-style: none;
  }
